@@ -1,6 +1,8 @@
-# server-starter-code
+# server-code
 
-This repository is the server (back-end) starter code for Final Project - Full-Stack CRUD Application.
+This repository is the server (back-end) code for Final Project - Full-Stack CRUD Application.
+
+Group Members: Stephanie Lam (LuckyFlower2995)
 
 **Prerequisites**
 - Install PostgreSQL (Postgres) [[link](https://www.postgresql.org/download/)] - required to run the database
